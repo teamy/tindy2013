@@ -1,1 +1,1 @@
-[![Tindy X's github stats](https://github-readme-stats.vercel.app/api?username=tindy2013&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tindy X's GitHub stats](https://github-stats-extended.vercel.app/api?username=tindy2013)](https://github.com/stats-organization/github-stats-extended)
